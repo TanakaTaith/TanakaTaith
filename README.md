@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TanakaTaith
 - 👀 I’m interested in Software and Web development(C#,Java,JavaScript and PHP)
 - 🌱 I’m currently learning Bachelor of science Homnours degree in Information Technology
-- 💞️ I’m looking to collaborate on any web and software projects in C#,Java,JavaScript and PHP
+- 💞️ I’m looking to collaborate on any web and software projects in HTML, CSS,Laravel PHP and JavaScript 
 - 📫 How to reach me tanakamazhandu@gmail.com, +263 71 2123 938
 
 <!---
